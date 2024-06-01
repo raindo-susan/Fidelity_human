@@ -13,5 +13,7 @@ Works with Mate under marco display manager.
 - gtk-engine-ubuntulooks metacity theme _already included_
 
 
-To run:
-**sh INSTALL.sh**
+### To install:
+```sh
+>sh INSTALL.sh
+```
