@@ -11,3 +11,7 @@ Works with Mate under marco display manager.
 - Human-theme from your sources.
 - Traditional-HumanizedCL theme _already included_
 - gtk-engine-ubuntulooks metacity theme _already included_
+
+
+To run:
+**sh INSTALL.sh**
