@@ -18,4 +18,4 @@ Works with Mate under marco display manager.
 >sh INSTALL.sh
 ```
 
-![hover](https://github.com/raindo-susan/Fidelity_human/assets/145541702/051f273b-7d7c-4dc5-a077-b1122e265b41)
+![ubuntu606](https://github.com/raindo-susan/Fidelity_human/assets/145541702/23e28f21-e6dc-4e5c-917f-b6f11476ebd9)
